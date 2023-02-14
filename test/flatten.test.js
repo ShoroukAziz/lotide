@@ -1,6 +1,5 @@
 const assert = require('chai').assert;
 const flatten = require('../flatten');
-const assertArraysEqual = require('../assertArraysEqual');
 
 
 describe("#flatten", () => {
